@@ -1,5 +1,5 @@
 # pdf-grid-splitter-script
-A script in python that can reverse the "print to pdf fitting 9 pages in one" action on a pdf
+A script in python that can reverse the "print to pdf fitting x pages in one" action on a pdf
 
 
 ## Running the script
